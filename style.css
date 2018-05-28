@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lyrics {
+    color: saddlebrown;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    width: 20%;
+}
+
+.quote {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 16px;
+    margin-top: -10px;
+    width: 20%
+}
