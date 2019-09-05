@@ -12,8 +12,10 @@
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .values {
-    background-image: url('../assets/images/bg.jpg');
+    background-image: url('../assets/images/bg.svg');
+    background-attachment: fixed;
     background-size: cover;
+    background-color: #2e2b2d;
     color: #fff;
     padding-bottom: 5rem;
   }
